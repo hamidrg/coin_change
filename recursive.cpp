@@ -1,4 +1,3 @@
-//Hamidreza Ghorbani 4001231091
 #include <iostream>
 using namespace std;
 long long int recursive_coins(int [], int , int );
